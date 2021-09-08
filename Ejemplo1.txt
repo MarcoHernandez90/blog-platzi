@@ -1,4 +1,3 @@
 Archivo de texto de ejemplo
-para el uso
-de git en ubuntu v21.04 LTS
-editado en Sublime Text 4
+para la utilización
+de git en ubuntu
