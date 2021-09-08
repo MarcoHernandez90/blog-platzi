@@ -1,4 +1,4 @@
 Archivo de texto de ejemplo
-para la utilización
+para el uso
 de git en ubuntu v21.04
 editado en Sublime Text 4
