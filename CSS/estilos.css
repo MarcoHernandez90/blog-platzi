@@ -37,3 +37,10 @@ body {
 #container #post {
 	margin: 1em;
 }
+
+#container #footer {
+	background-color: darkgray;
+	color: black;
+	padding: 1px 10px;
+	font-size: 20px;
+}
