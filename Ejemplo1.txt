@@ -1,3 +1,3 @@
-Archivo de texto de ejemplo
+Archivo de texto de ejemplo con experimentos
 para la utilización
 de git en ubuntu 21.04 LTS
